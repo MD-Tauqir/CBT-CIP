@@ -22,7 +22,7 @@ Contact Master is a simple, yet powerful contact management system implemented i
 ```bash
 git clone https://github.com/MD-Tauqir/CBT-CIP.git
 cd Contact_Master
-python Contact_Master.py
+python contactmaster.py
 ```
 # Commands
 * **Add Contact:** Follow the prompts to add a new contact.
@@ -34,11 +34,13 @@ python Contact_Master.py
 * **Bulk Add Contacts:** Provide the path to a CSV file to import multiple contacts.
 
 # Project Structure
+```bash
 Contact_Master/
 │
-├── Contact_Master.py      # Main application file
+├── contactmaster.py      # Main application file
 ├── Contacts.db          # SQLite database file
 └── README.md            # Documentation
+```
 
 # Technologies Used
 ***Python:** Programming language used for the project.
