@@ -43,6 +43,6 @@ Contact_Master/
 ```
 
 # Technologies Used
-***Python:** Programming language used for the project.
-***SQLite:** Database to store contacts.
-***CSV:** Format for importing and exporting contacts.
+* **Python:** Programming language used for the project.
+* **SQLite:** Database to store contacts.
+* **CSV:** Format for importing and exporting contacts.
