@@ -9,4 +9,7 @@ The computer also generates its move.<br>
 To run the Rock-Paper-Scissors game, execute the following command in your terminal:
 
 ```bash
-python3 RPS.py
+git clone https://github.com/MD-Tauqir/CBT-CIP.git
+cd Rock_Paper_Scissor_Game
+python RPS.py
+```
