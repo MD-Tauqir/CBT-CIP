@@ -17,13 +17,12 @@ Contact Master is a simple, yet powerful contact management system implemented i
 * **Display Contacts:** View all contacts stored in the database.
 * **Export to CSV:** Export the contact list to a CSV file.
 * **Bulk Add Contacts:** Import multiple contacts from a CSV file.
+
 # Installation
 
-```bash
 git clone https://github.com/yourusername/contactvault.git
 cd contactvault
 python contactvault.py
-```bash
 
 # Commands
 * **Add Contact:** Follow the prompts to add a new contact.
