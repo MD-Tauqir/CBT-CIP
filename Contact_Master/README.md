@@ -23,7 +23,7 @@ Contact Master is a simple, yet powerful contact management system implemented i
 git clone https://github.com/yourusername/contactvault.git
 cd contactvault
 python contactvault.py
-bash```
+```bash
 
 # Commands
 * **Add Contact:** Follow the prompts to add a new contact.
