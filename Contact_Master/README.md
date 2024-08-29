@@ -34,13 +34,12 @@ python Contact_Master.py
 * **Bulk Add Contacts:** Provide the path to a CSV file to import multiple contacts.
 
 # Project Structure
-```bash
-ContactVault/
+Contact_Master/
 │
-├── contactvault.py      # Main application file
+├── Contact_Master.py      # Main application file
 ├── Contacts.db          # SQLite database file
 └── README.md            # Documentation
-```
+
 # Technologies Used
 ***Python:** Programming language used for the project.
 ***SQLite:** Database to store contacts.
