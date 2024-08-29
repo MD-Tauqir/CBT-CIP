@@ -19,11 +19,11 @@ Contact Master is a simple, yet powerful contact management system implemented i
 * **Bulk Add Contacts:** Import multiple contacts from a CSV file.
 
 # Installation
-
-git clone https://github.com/yourusername/contactvault.git
-cd contactvault
-python contactvault.py
-
+```bash
+git clone https://github.com/MD-Tauqir/CBT-CIP.git
+cd Contact_Master
+python Contact_Master.py
+```
 # Commands
 * **Add Contact:** Follow the prompts to add a new contact.
 * **Delete Contact:** Provide the name of the contact you want to delete.
@@ -40,7 +40,7 @@ ContactVault/
 ├── contactvault.py      # Main application file
 ├── Contacts.db          # SQLite database file
 └── README.md            # Documentation
-
+```
 # Technologies Used
 ***Python:** Programming language used for the project.
 ***SQLite:** Database to store contacts.
